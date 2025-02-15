@@ -1,0 +1,39 @@
+.top-section {
+  display: flex;
+  flex-direction: column;
+  margin-inline: auto;
+  text-align: center;
+  width: 350px;
+  height: 350px;
+}
+
+.mid-section {
+  display: flex;
+  padding-top: 134px;
+  justify-content: flex-end;
+  margin-inline: 200px;
+  
+ 
+
+}
+
+
+
+.mid-text {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  margin: 30px;
+}
+
+.end {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.end-section {
+  color: #846150;
+  padding-top: 30px;
+}
